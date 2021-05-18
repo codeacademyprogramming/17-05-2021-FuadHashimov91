@@ -1,5 +1,35 @@
 [
     {
+        "code": "AZN",
+        "nominal": "1",
+        "name": "Azərbaycan manatı",
+        "value": "1"
+    },
+    {
+        "code": "USD",
+        "nominal": "1",
+        "name": "ABŞ dolları",
+        "value": "1.7002"
+    },
+    {
+        "code": "EUR",
+        "nominal": "1",
+        "name": "Avro",
+        "value": "1.9941"
+    },
+    {
+        "code": "RUB",
+        "nominal": "1",
+        "name": "Rusiya rublu",
+        "value": "0.0287"
+    },
+    {
+        "code": "TRY",
+        "nominal": "1",
+        "name": "Türk lirəsi",
+        "value": "0.4395"
+    },
+    {
         "code": "CZK",
         "nominal": "1",
         "name": "Çexiya kronu",
@@ -22,12 +52,6 @@
         "nominal": "1",
         "name": "Yeni türkmən manatı",
         "value": "0.4858"
-    },
-    {
-        "code": "RUB",
-        "nominal": "1",
-        "name": "Rusiya rublu",
-        "value": "0.0287"
     },
     {
         "code": "GEL",
@@ -64,12 +88,6 @@
         "nominal": "1",
         "name": "Belarus rublu",
         "value": "0.8496"
-    },
-    {
-        "code": "TRY",
-        "nominal": "1",
-        "name": "Türk lirəsi",
-        "value": "0.4395"
     },
     {
         "code": "EGP",
@@ -228,12 +246,6 @@
         "value": "0.2680"
     },
     {
-        "code": "EUR",
-        "nominal": "1",
-        "name": "Avro",
-        "value": "1.9941"
-    },
-    {
         "code": "MXN",
         "nominal": "1",
         "name": "Meksika pesosu",
@@ -262,11 +274,6 @@
         "nominal": "1",
         "name": "BƏƏ dirhəmi",
         "value": "0.4629"
-    },
-    {
-        "code": "USD",
-        "nominal": "1",
-        "name": "ABŞ dolları",
-        "value": "1.7002"
     }
+
 ]
